@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Halloween Carnival</string>
+    <string name="carnival">Carnival Images</string>
+    <string name="describe">The Night of 31st October</string>
+    <string name="describe1">the eve of all Saints\' Day, often celebrated by children\ndressing up in frightening masks....Read More</string>
+    <string name="host">Hosted by\\nGrace Bradley\\nHalloween is an annual holiday celebrated\neach year on Oct 31</string>
+    <string name="urcontact">Your Contacts</string>
+    <string name="timothy">Timothy Moreno</string>
+    <string name="status">Status</string>
+    <string name="going">Going to Carnival</string>
+    <string name="name1">Mitchell Roberts</string>
+    <string name="seth">Seth Duncan</string>
+    <string name="lillian">Lillian James</string>
+    <string name="come">Hosted by</string>
+    <string name="g5">Grace Bradley</string>
+    <string name="why">Halloween is an annual holiday celebrat-\ned each year on Oct 31</string>
+</resources>
